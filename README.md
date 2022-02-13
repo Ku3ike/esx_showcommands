@@ -8,4 +8,8 @@
 3) Done
 ```
 
-ESX Show command [job,money...] by ku3i
+This scripts is a ESX Show command [job,money...] by ku3i
+Just text into the chat : /showjob, /showcash, /showbank, /showdirty, /showinfo, /showsociety
+
+For any questions join to my discord:
+https://discord.gg/DtDG3D6beP
